@@ -72,7 +72,7 @@ public class API {
         Call<MovieResults> getUserWatchList(@Query("api_key") String api_key, @Query("session_id") String sesson_token);
 
         @GET("account/0/watchlist/movies")
-        Call<MovieResults> getUserWatchList(@Query("api_key") String api_key, @Query("request_token") String sesson_token, @Query("page") int page);
+        Call<MovieResults> getUserWatchList(@Query("api_key") String api_key, @Query("session_id") String sesson_token, @Query("page") int page);
 
         @GET("authentication/session/new")
         Call<UserSessionID> getUserSessionID(@Query("api_key") String api_key, @Query("request_token") String session_token);
