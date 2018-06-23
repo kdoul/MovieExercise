@@ -37,7 +37,7 @@ implementation 'com.pnikosis:materialish-progress:1.5'
 implementation 'de.hdodenhof:circleimageview:2.1.0'
 ```
 Retrofit2 was used to communicate and authenticate with the TMDb API.  The Priority Job Queue was used execute all the time consuming tasks asynchronously in the background away from the UI thread. 
-The Picasso library was used to fetch and cache the images pulled from the api. The rest of the dependencies are used to provide the material design UI design elements.  
+The Picasso library was used to fetch and cache the images pulled from the api. The rest of the dependencies are used to provide the material design UI elements.  
 
 ### Building
 
