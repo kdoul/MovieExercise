@@ -143,6 +143,7 @@ public class MovieDetailPresenter implements BasePresenter {
                         companyText.append(productionCompany.getName());
                         companyText.append(", ");
                     }
+                    companyText.setLength(companyText.length() - 2 );
                     view.updateCompanies(companyText.toString());
                 }
 
