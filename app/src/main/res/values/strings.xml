@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MovieExercise</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem">Bur</string>
+    <string name="title_activity_navigation">MovieExercise</string>
+    <string name="title_discover">Discover</string>
+    <string name="title_new">New</string>
+    <string name="title_popular">Popular</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_search">Search</string>
+
+</resources>
