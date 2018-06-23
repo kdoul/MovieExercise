@@ -9,6 +9,12 @@
 ## Images
 
 
+![ezgif-1-6ff3ff874f](https://user-images.githubusercontent.com/5503414/41813696-6e3223f6-7743-11e8-8db2-e49ad6f5d30e.gif)
+![ezgif-1-13a7a0aba6](https://user-images.githubusercontent.com/5503414/41813669-3054b99a-7743-11e8-8e05-1cb221e78354.gif)
+![screenshot_20180623-232034](https://user-images.githubusercontent.com/5503414/41813671-38f8d392-7743-11e8-8592-17ae0c962cd9.png)
+![screenshot_20180623-232101](https://user-images.githubusercontent.com/5503414/41813672-39719e4e-7743-11e8-9fac-01985c64eebe.png)
+![screenshot_20180623-232114](https://user-images.githubusercontent.com/5503414/41813674-3ac8a8aa-7743-11e8-93f3-93e96154bd88.png)
+
 
 ## Architecture 
 
